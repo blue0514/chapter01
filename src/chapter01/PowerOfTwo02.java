@@ -20,7 +20,7 @@ public class PowerOfTwo02 {
 			result = result * 2;
 			i = i + 1;
 		}
-		
+
 		//아래의 for 문을 작성하시오.
 		
 		

@@ -8,7 +8,7 @@ public class PowerOfTwo {
 		
 Scanner scanner = new Scanner(System.in);
 		
-		System.out.print("승수:"); //prompt
+		System.out.println("승수:"); //prompt
 		int power = scanner.nextInt();
 		
 		int result = 1;
